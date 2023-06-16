@@ -1,3 +1,4 @@
-# ChemBlog
-This is our computational chemistry blog
-Created using w3 CSS
+### ChemBlog
+Welcome To Our Computational Chemistry Blog
+Created using W3 CSS
+
